@@ -376,3 +376,4 @@ For issues or questions, please check:
 ---
 
 **Happy Scoring! 🏏**
+# CricScore
