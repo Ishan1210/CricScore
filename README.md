@@ -2,6 +2,10 @@
 
 A full-stack MERN (MongoDB, Express, React, Node.js) application for managing cricket matches with live scoring, ball-by-ball tracking, and match history.
 
+## 🚀 Live Demo
+
+**[Visit CricScore →](https://cric-score-eight.vercel.app/)**
+
 ## Features
 
 - **User Authentication**: Secure email/password authentication with JWT and bcrypt
